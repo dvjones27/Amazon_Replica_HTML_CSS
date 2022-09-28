@@ -1,0 +1,24 @@
+<!--Assignment 2: Amazon Replica - HTML/CSS Brandon Apol • 
+    Oct 28, 2021 (Edited Apr 25) 5 points Using the skills 
+    we 've practicted up until now, your task is to position 
+    the following based on the mockup: 
+    - Sign In 
+    - Email(phone or mobile accounts) 
+    - Password
+    - Forgot Password 
+    Once completed, commit the project to github and submit 
+    the link (in the browser area at the top) to the 
+    google classroom assignment.-->
+
+<!-- Amazon Condition of Use -->
+<!-- https://www.amazon.com/gp/help/customer/display.html/ref=ap_signin_notification_condition_of_use?ie=UTF8&nodeId=508088 -->
+
+<!-- Amazon Privacy Notice -->
+<!-- https://www.amazon.com/gp/help/customer/display.html/ref=ap_signin_notification_privacy_notice?ie=UTF8&nodeId=468496 -->
+
+
+<!-- Amazon Forgot Password -->
+<!-- https://www.amazon.com/ap/forgotpassword?showRememberMe=true&openid.pape.max_auth_age=900&pageId=usflex&mobileBrowserWeblabTreatment=C&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26signIn%3D1%26useRedirectOnSuccess%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&prevRID=W59D91DM15BJQXAQ6VV8&openid.assoc_handle=usflex&openid.mode=checkid_setup&desktopBrowserWeblabTreatment=C&prepopulatedLoginId=&failedSignInCount=0&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 -->
+
+<!-- Amazon Need Help Other Issues -->
+<!-- https://www.amazon.com/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8 -->
